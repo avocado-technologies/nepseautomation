@@ -1,0 +1,40 @@
+{
+  "name": "node-es7-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/nodemon ./node_modules/.bin/babel-node .",
+    "prepublish": "npm run build",
+    "test": "ava test",
+    "build": "babel src -d dist",
+    "prod": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "ava": {
+    "babel": "inherit"
+  },
+  "devDependencies": {
+    "ava": "^0.20.0",
+    "babel-cli": "^6.24.1",
+    "babel-polyfill": "^6.22.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-register": "^6.24.1",
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "axios": "^1.6.5",
+    "babel-preset-es2017": "^6.24.1",
+    "babel-preset-pundits": "^2.0.3",
+    "captcha-solver": "0.0.6",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^10.0.0",
+    "jimp": "^0.16.1",
+    "nconf": "^0.11.3",
+    "node-cache": "^5.1.2",
+    "node-cron": "^3.0.0",
+    "node-json-db": "^2.3.0",
+    "node-laravel-encryptor": "^3.0.2",
+    "tesseract.js": "1.0.19"
+  }
+}

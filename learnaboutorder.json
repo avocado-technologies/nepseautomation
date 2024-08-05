@@ -1,0 +1,172 @@
+[
+  {
+    "symbol": "NHPC",
+    "quantity": 200,
+    "type": "buy",
+    "strategy": "FIXED",
+    "tmsorders": [
+      {
+        "id": 619552,
+        "clientMemberCode": "2020107619",
+        "symbol": "NHPC",
+        "securityName": "National Hydro Power Company Limited",
+        "exchangeOrderId": "2021070604004731",
+        "buyOrSell": 1,
+        "orderQuantity": 200,
+        "orderPrice": 291,
+        "orderTime": "2021-07-06 11:08:40",
+        "activeStatus": "OPEN",
+        "displayActiveStatus": "OPEN",
+        "totalTradedQuantity": 0,
+        "remainingOrderQuantity": 200,
+        "disclosedQuantity": 0,
+        "remainingDisclosedQuantity": 0,
+        "displayName": "BIBEK SHAKYA",
+        "orderPlacedBy": "BIBEK SHAKYA"
+      }
+    ],
+    "ordertype": "CONT",
+    "price": 290
+  },
+  {
+    "symbol": "AHPC",
+    "quantity": 200,
+    "type": "buy",
+    "strategy": "LOW",
+    "tmsorders": [
+      {
+        "id": 619374,
+        "clientMemberCode": "2020107619",
+        "symbol": "AHPC",
+        "securityName": "Arun Valley Hydropower Development Co. Ltd.",
+        "exchangeOrderId": "0",
+        "buyOrSell": 1,
+        "orderQuantity": 200,
+        "orderPrice": 425,
+        "orderTime": null,
+        "activeStatus": "PENDING",
+        "displayActiveStatus": "ORDER_REQUEST",
+        "totalTradedQuantity": 0,
+        "remainingOrderQuantity": 200,
+        "disclosedQuantity": 0,
+        "remainingDisclosedQuantity": null,
+        "displayName": "BIBEK SHAKYA",
+        "orderPlacedBy": "BIBEK SHAKYA"
+      }
+    ],
+    "ordertype": "CONT"
+  },
+  {
+    "symbol": "BARUN",
+    "quantity": 205,
+    "type": "buy",
+    "strategy": "LOW",
+    "tmsorders": [
+      {
+        "id": 619375,
+        "clientMemberCode": "2020107619",
+        "symbol": "BARUN",
+        "securityName": "Barun Hydropower Co. Ltd.",
+        "exchangeOrderId": "0",
+        "buyOrSell": 1,
+        "orderQuantity": 205,
+        "orderPrice": 482,
+        "orderTime": null,
+        "activeStatus": "PENDING",
+        "displayActiveStatus": "ORDER_REQUEST",
+        "totalTradedQuantity": 0,
+        "remainingOrderQuantity": 205,
+        "disclosedQuantity": 0,
+        "remainingDisclosedQuantity": null,
+        "displayName": "BIBEK SHAKYA",
+        "orderPlacedBy": "BIBEK SHAKYA"
+      }
+    ],
+    "ordertype": "CONT"
+  },
+  {
+    "symbol": "BARUN",
+    "quantity": 301,
+    "type": "buy",
+    "strategy": "FIXED",
+    "tmsorders": [
+      {
+        "id": 619376,
+        "clientMemberCode": "2020107619",
+        "symbol": "BARUN",
+        "securityName": "Barun Hydropower Co. Ltd.",
+        "exchangeOrderId": "0",
+        "buyOrSell": 1,
+        "orderQuantity": 301,
+        "orderPrice": 493,
+        "orderTime": null,
+        "activeStatus": "PENDING",
+        "displayActiveStatus": "ORDER_REQUEST",
+        "totalTradedQuantity": 0,
+        "remainingOrderQuantity": 301,
+        "disclosedQuantity": 0,
+        "remainingDisclosedQuantity": null,
+        "displayName": "BIBEK SHAKYA",
+        "orderPlacedBy": "BIBEK SHAKYA"
+      }
+    ],
+    "ordertype": "CONT",
+    "price": 490
+  },
+  {
+    "symbol": "BARUN",
+    "quantity": 245,
+    "type": "sell",
+    "strategy": "HIGH",
+    "tmsorders": [
+      {
+        "id": 619686,
+        "clientMemberCode": "2020107619",
+        "symbol": "BARUN",
+        "securityName": "Barun Hydropower Co. Ltd.",
+        "exchangeOrderId": "2021070604006969",
+        "buyOrSell": 2,
+        "orderQuantity": 245,
+        "orderPrice": 535,
+        "orderTime": "2021-07-06 11:18:10",
+        "activeStatus": "OPEN",
+        "displayActiveStatus": "OPEN",
+        "totalTradedQuantity": 0,
+        "remainingOrderQuantity": 245,
+        "disclosedQuantity": 0,
+        "remainingDisclosedQuantity": 0,
+        "displayName": "BIBEK SHAKYA",
+        "orderPlacedBy": "BIBEK SHAKYA"
+      }
+    ],
+    "ordertype": "CONT"
+  },
+  {
+    "symbol": "AHPC",
+    "quantity": 295,
+    "type": "sell",
+    "strategy": "HIGH",
+    "tmsorders": [
+      {
+        "id": 619687,
+        "clientMemberCode": "2020107619",
+        "symbol": "AHPC",
+        "securityName": "Arun Valley Hydropower Development Co. Ltd.",
+        "exchangeOrderId": "2021070604006974",
+        "buyOrSell": 2,
+        "orderQuantity": 295,
+        "orderPrice": 449,
+        "orderTime": "2021-07-06 11:18:11",
+        "activeStatus": "OPEN",
+        "displayActiveStatus": "OPEN",
+        "totalTradedQuantity": 0,
+        "remainingOrderQuantity": 295,
+        "disclosedQuantity": 0,
+        "remainingDisclosedQuantity": 0,
+        "displayName": "BIBEK SHAKYA",
+        "orderPlacedBy": "BIBEK SHAKYA"
+      }
+    ],
+    "ordertype": "CONT"
+  }
+]

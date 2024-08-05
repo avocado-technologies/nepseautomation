@@ -1,0 +1,11 @@
+"goals": [
+  {
+    "symbol": "NHPC",
+    "quantity": 200,
+    "type": "buy",
+    "strategy": "FIXED",
+    "tmsorders": [],
+    "ordertype": "CONT",
+    "price": 290
+  }
+]
